@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on PictoBlox
 - 📫 Reach me through Discord { Preet#2651 }
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Preet.)
 <!---
 preet-school/preet-school is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
